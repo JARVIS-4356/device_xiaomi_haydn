@@ -19,7 +19,7 @@ git clone --depth=1 https://gitlab.com/Alucard_Storm/vendor_xiaomi_haydn-firmwar
 
 # Xiaomi
 echo 'Cloning hardware xiaomi'
-rm -rf hardware/xiaomi && git clone --depth=1 https://github.com/LineageOS/android_hardware_xiaomi -b lineage-21 hardware/xiaomi
+rm -rf hardware/xiaomi && git clone --depth=1 https://github.com/LineageOS/android_hardware_xiaomi -b lineage-22.2 hardware/xiaomi
 
 # Camera
 echo 'Cloning Leica camera'
