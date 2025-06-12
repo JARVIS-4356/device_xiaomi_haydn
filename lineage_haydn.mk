@@ -31,5 +31,3 @@ PRODUCT_PRODUCT_PROPERTIES += \
 
 PRODUCT_GMS_CLIENTID_BASE := android-xiaomi
 
-# Sign Builds
-PRODUCT_DEFAULT_DEV_CERTIFICATE := vendor/xiaomi/priv-keys/releasekey
